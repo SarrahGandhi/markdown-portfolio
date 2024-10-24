@@ -1,12 +1,12 @@
 # Projects
 
-## 1. Social Networking Platform
-A platform where users can exchange skills. For example, someone with graphic design expertise can learn video editing from another user.
+## 1. Graphic Designer
+I've worked as a graphic designer, creating visually appealing designs for various clients, including logos, posters, and marketing materials. My work focuses on enhancing brand identity through creativity and innovative design.
 
-## 2. What's in My Fridge
-An app that helps users find recipes based on ingredients they already have. It uses a match algorithm to recommend recipes based on available ingredients.
+## 2. Web Designer at Slay Coffee
+At Slay Coffee, I developed a responsive website that showcases the company’s unique branding and coffee products. The project involved a mix of HTML, CSS, and JavaScript to build an engaging and user-friendly interface.
 
-## 3. CCC Web API Solutions
-An ASP.NET Core project involving web API controllers to solve CCC problems efficiently.
+## 3. Student at Humber College
+As a student at Humber, I’ve been involved in multiple projects, including developing web applications and backend solutions. Some of my recent projects include creating a skill-exchange platform and a recipe-matching web app.
 
 [Back to Home](index.md) | [Contact Me](contact.md)
